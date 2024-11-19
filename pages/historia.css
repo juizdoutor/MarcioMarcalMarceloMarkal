@@ -1,0 +1,25 @@
+@import url(../Shortcuts/nav.css);
+
+.demografia{
+    margin-top: 2rem;
+}
+
+.phistoria {
+    display: flex;
+    font-family: Geist Mono;
+}
+
+.pdemografia {
+    display: flex;
+    flex-direction: row-reverse;
+    font-family: Geist Mono;
+}
+
+.dimagem {
+    display: flex;
+}
+
+.cidade {
+    display: flex;
+    flex-direction: column;
+}

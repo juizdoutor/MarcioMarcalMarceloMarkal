@@ -1,0 +1,25 @@
+@import url(../Shortcuts/nav.css);
+
+.TrocaFF{
+    font-family: 'Geist Mono', sans-serif;
+    font-weight: 500;
+}
+
+.economia{
+    display: flex;
+    padding-top: 4rem;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+.peconomia{
+    display: flex;
+    flex-direction: row;
+    padding: 5rem 35rem 5rem 35rem;
+}
+
+.p2economia{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 2rem;
+}

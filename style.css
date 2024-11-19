@@ -1,0 +1,24 @@
+@import url(./Shortcuts/nav.css);
+
+.pHome {
+    display: flex;
+    width: 29rem;
+    font-size: 2rem;
+    margin-left: 47.5rem;
+    margin-top: 6rem;
+    font-family: 'MuseoModerno', sans-serif;
+    font-weight: 600;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(./images/nigerian\ bandeira.png);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
