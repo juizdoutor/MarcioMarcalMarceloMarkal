@@ -10,16 +10,27 @@
     padding-top: 4rem;
     justify-content: center;
     padding-bottom: 1rem;
+    margin-inline: auto;
+}
+
+.Image1{
+    padding-right: 2rem;
 }
 
 .peconomia{
     display: flex;
     flex-direction: row;
     padding: 5rem 35rem 5rem 35rem;
+    background-color: #d8d8d8;
+}
+
+.Image2{
+    padding-left: 2rem;
 }
 
 .p2economia{
     display: flex;
     flex-direction: row-reverse;
     padding-top: 2rem;
+    padding: 5rem 35rem 5rem 35rem;
 }

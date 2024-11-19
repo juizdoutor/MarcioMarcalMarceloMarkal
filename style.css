@@ -2,10 +2,9 @@
 
 .pHome {
     display: flex;
-    width: 29rem;
     font-size: 2rem;
-    margin-left: 47.5rem;
-    margin-top: 6rem;
+    text-align: center;
+    padding: 15rem 45rem 3rem 45rem;
     font-family: 'MuseoModerno', sans-serif;
     font-weight: 600;
 }

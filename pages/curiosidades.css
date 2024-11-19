@@ -1,10 +1,24 @@
 @import url(../Shortcuts/nav.css);
 
+.curiosidades {
+    display: flex;
+    padding-top: 4rem;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
 .pcuriosidades {
     font-family: Geist Mono;
+    display: flex;
+    flex-direction: row;
+    padding: 5rem 35rem 5rem 35rem;
 }
+
 
 .p2curiosidades {
     margin-top: 2rem;
     font-family: Geist Mono;
+    display: flex;
+    flex-direction: row;
+    padding: 5rem 35rem 5rem 35rem;
 }
