@@ -10,8 +10,12 @@
 .pcuriosidades {
     font-family: Geist Mono;
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     padding: 5rem 35rem 5rem 35rem;
+}
+
+.cavalo{
+    padding-left: 2rem;
 }
 
 
@@ -21,4 +25,8 @@
     display: flex;
     flex-direction: row;
     padding: 5rem 35rem 5rem 35rem;
+}
+
+.muier{
+    padding-right: 2rem;
 }
