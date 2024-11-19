@@ -1,5 +1,9 @@
 @import url(../Shortcuts/nav.css);
 
+h1{
+    font-family: 'MuseoModerno', sans-serif;
+}
+
 .TrocaFF{
     font-family: 'Geist Mono', sans-serif;
     font-weight: 500;

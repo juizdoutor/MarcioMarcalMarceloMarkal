@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+h1, h2, a {
+  font-family: "MuseoModerno", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
     font-size: 62,5%;
 }
